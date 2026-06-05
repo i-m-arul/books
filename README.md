@@ -27,7 +27,6 @@ A series of political thrillers, each taking a single date as its fault line and
 
 Arul Anand writes political fiction at the seam between history and imagination.
 
-*(Add your full bio here.)*
 
 ---
 
