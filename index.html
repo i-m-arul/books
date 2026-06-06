@@ -28,7 +28,7 @@
   .lede{font-style:italic;font-size:1.4rem;max-width:620px;margin:54px auto 10px;text-align:center;color:var(--ink)}
   .series-note{max-width:640px;margin:28px auto 0;text-align:center;color:var(--faded)}
   .books{margin:80px 0 40px;display:flex;flex-direction:column;gap:0}
-  .book{border-top:1px solid var(--rule);padding:48px 0;display:grid;grid-template-columns:130px 1fr;gap:38px;align-items:start}
+  .book{border-top:1px solid var(--rule);padding:48px 0;display:grid;grid-template-columns:170px 1fr;gap:38px;align-items:start}
   .book:last-child{border-bottom:1px solid var(--rule)}
   .date-tag{font-family:'Fraunces';font-weight:900;font-size:1.9rem;line-height:1;color:var(--oxblood);border:2px solid var(--ink);padding:18px 10px;text-align:center;letter-spacing:-.02em}
   .book-num{display:block;font-family:'Newsreader';font-style:italic;font-weight:400;font-size:.7rem;color:var(--faded);letter-spacing:.12em;text-transform:uppercase;margin-bottom:10px;-webkit-text-fill-color:var(--faded)}
@@ -40,6 +40,8 @@
   .sample{display:inline-block;margin:10px 0 0 10px;font-family:'Fraunces';font-weight:500;font-size:.95rem;letter-spacing:.04em;text-transform:uppercase;color:var(--ink);background:transparent;border:2px solid var(--ink);padding:10px 24px;text-decoration:none;transition:.2s}
   .sample:hover{background:var(--ink);color:var(--paper)}
   .ku{display:block;margin-top:12px;font-size:.85rem;font-style:italic;color:var(--faded)}
+  .cover-col{display:flex;flex-direction:column;gap:16px;align-items:stretch}
+  .cover{width:100%;display:block;border:1px solid var(--ink);box-shadow:6px 6px 0 var(--paper-dark),6px 6px 0 1px var(--rule)}
   footer{border-top:3px double var(--ink);margin-top:40px;padding:48px 0 70px;text-align:center;color:var(--faded);font-size:.95rem}
   footer .author-name{font-family:'Fraunces';font-weight:600;font-size:1.1rem;color:var(--ink);display:block;margin-bottom:10px}
   @media(max-width:600px){
@@ -63,7 +65,10 @@
   <section class="books">
 
     <article class="book">
-      <div class="date-tag">31<br>10<br>84</div>
+      <div class="cover-col">
+        <img class="cover" src="assets/covers/31-10-84.jpg" alt="Cover of 31.10.84: A Nation on the Edge by Arul Anand">
+        <div class="date-tag">31<br>10<br>84</div>
+      </div>
       <div>
         <span class="book-num">Book One</span>
         <h2>A Nation on the Edge</h2>
@@ -77,7 +82,10 @@
     </article>
 
     <article class="book">
-      <div class="date-tag">21<br>05<br>91</div>
+      <div class="cover-col">
+        <img class="cover" src="assets/covers/21-05-91.jpg" alt="Cover of 21.05.91 by Arul Anand">
+        <div class="date-tag">21<br>05<br>91</div>
+      </div>
       <div>
         <span class="book-num">Book Two</span>
         <h2>21.05.91</h2>
