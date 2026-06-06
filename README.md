@@ -4,7 +4,7 @@
 
 > A nation appears united — until a single moment exposes its deepest fractures.
 
-This is the author home of Arul Anand — novels about systems under strain and the human decisions inside them. The live site: **[arulanand.github.io](https://arulanand.github.io/)**
+This is the author home of Arul Anand — novels about systems under strain and the human decisions inside them. The live site: **[i-m-arul.github.io](https://i-m-arul.github.io/books)**
 
 ---
 
@@ -27,7 +27,6 @@ A series of political thrillers, each taking a single date as its fault line and
 
 Arul Anand writes political fiction at the seam between history and imagination.
 
-*(Add your full bio here.)*
 
 ---
 
