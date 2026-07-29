@@ -1,0 +1,113 @@
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Fracture Novels — Arul Anand</title>
+<meta name="description" content="The Fracture Novels by Arul Anand — a political fiction series tracing the moments that broke modern India open.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,900&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#f4f1ea; --ink:#1a1714; --oxblood:#7a1e1e; --faded:#6b6358;
+    --rule:#cfc7b8; --paper-dark:#ebe6db;
+  }
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{
+    background:var(--paper); color:var(--ink);
+    font-family:'Newsreader',Georgia,serif; font-size:19px; line-height:1.65;
+    -webkit-font-smoothing:antialiased;
+    background-image:radial-gradient(circle at 50% 0,rgba(0,0,0,.025),transparent 60%);
+  }
+  .wrap{max-width:920px;margin:0 auto;padding:0 28px}
+  header{text-align:center;padding:80px 0 48px;border-bottom:3px double var(--ink)}
+  .kicker{font-family:'Newsreader';font-style:italic;color:var(--oxblood);letter-spacing:.04em;font-size:1rem;margin-bottom:14px}
+  h1{font-family:'Fraunces';font-weight:900;font-size:clamp(2.8rem,7vw,5rem);line-height:.95;letter-spacing:-.02em}
+  .byline{font-family:'Fraunces';font-weight:400;font-size:1.2rem;margin-top:18px;color:var(--faded);letter-spacing:.08em;text-transform:uppercase}
+  .lede{font-style:italic;font-size:1.4rem;max-width:620px;margin:54px auto 10px;text-align:center;color:var(--ink)}
+  .series-note{max-width:640px;margin:28px auto 0;text-align:center;color:var(--faded)}
+  .books{margin:80px 0 40px;display:flex;flex-direction:column;gap:0}
+  .book{border-top:1px solid var(--rule);padding:48px 0;display:grid;grid-template-columns:170px 1fr;gap:38px;align-items:start}
+  .book:last-child{border-bottom:1px solid var(--rule)}
+  .date-tag{font-family:'Fraunces';font-weight:900;font-size:1.9rem;line-height:1;color:var(--oxblood);border:2px solid var(--ink);padding:18px 10px;text-align:center;letter-spacing:-.02em}
+  .book-num{display:block;font-family:'Newsreader';font-style:italic;font-weight:400;font-size:.7rem;color:var(--faded);letter-spacing:.12em;text-transform:uppercase;margin-bottom:10px}
+  .book h2{font-family:'Fraunces';font-weight:600;font-size:2rem;line-height:1.05;letter-spacing:-.01em;margin-bottom:8px}
+  .book .tagline{font-style:italic;color:var(--oxblood);margin-bottom:16px;font-size:1.15rem}
+  .book p{margin-bottom:14px}
+  .read-btn{display:inline-block;margin-top:10px;font-family:'Fraunces';font-weight:500;font-size:.95rem;letter-spacing:.04em;text-transform:uppercase;color:var(--paper);background:var(--ink);padding:12px 26px;text-decoration:none;transition:background .2s}
+  .read-btn:hover{background:var(--oxblood)}
+  .kindle-btn{display:inline-block;margin:10px 0 0 10px;font-family:'Fraunces';font-weight:500;font-size:.95rem;letter-spacing:.04em;text-transform:uppercase;color:var(--ink);background:transparent;border:2px solid var(--ink);padding:10px 24px;text-decoration:none;transition:.2s}
+  .kindle-btn:hover{background:var(--ink);color:var(--paper)}
+  .ku{display:block;margin-top:10px;font-size:.82rem;font-style:italic;color:var(--faded)}
+  .cover-col{display:flex;flex-direction:column;gap:16px;align-items:stretch}
+  .cover{width:100%;display:block;border:1px solid var(--ink);box-shadow:6px 6px 0 var(--paper-dark),6px 6px 0 1px var(--rule)}
+  footer{border-top:3px double var(--ink);margin-top:40px;padding:48px 0 70px;text-align:center;color:var(--faded);font-size:.95rem}
+  footer .author-name{font-family:'Fraunces';font-weight:600;font-size:1.1rem;color:var(--ink);display:block;margin-bottom:10px}
+  footer a{color:var(--faded);font-size:.85rem}
+  @media(max-width:600px){
+    .book{grid-template-columns:1fr;gap:18px}
+    .date-tag{justify-self:start;padding:12px 18px;font-size:1.5rem}
+    body{font-size:18px}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kicker">A political fiction series</div>
+    <h1>The Fracture<br>Novels</h1>
+    <div class="byline">Arul Anand</div>
+  </header>
+
+  <p class="lede">A nation appears united — until a single moment exposes its deepest fractures.</p>
+  <p class="series-note">Each book takes a single date as its fault line and traces the tremors outward — through politics, bureaucracy, intelligence agencies, and the street. History, reimagined from inside the silences that shaped it.</p>
+
+  <section class="books">
+
+    <article class="book">
+      <div class="cover-col">
+        <img class="cover" src="{{ site.baseurl }}/assets/covers/31-10-84.jpg" alt="Cover of 31.10.84: A Nation on the Edge">
+        <div class="date-tag">31<br>10<br>84</div>
+      </div>
+      <div>
+        <span class="book-num">Book One</span>
+        <h2>A Nation on the Edge</h2>
+        <p class="tagline">Power shifts overnight. The fault lines surface.</p>
+        <p>Inspired by the assassination of India's Prime Minister and the chain of events that followed. Told through multiple perspectives, it explores how decisions made in silence, warnings ignored, and loyalties questioned culminate in an act that alters history.</p>
+        <p>Not just the story of an assassination, but of a system under strain — where ideology, fear, and ambition collide. Was the tragedy inevitable, or the result of fractures no one chose to see?</p>
+        <a class="read-btn" href="{{ site.baseurl }}/31-10-84/">Read Free Online &rarr;</a>
+        <a class="kindle-btn" href="https://www.amazon.com/dp/B0GHZMD2QL">Read on Kindle</a>
+        <span class="ku">Free with Kindle Unlimited</span>
+      </div>
+    </article>
+
+    <article class="book">
+      <div class="cover-col">
+        <img class="cover" src="{{ site.baseurl }}/assets/covers/21-05-91.jpg" alt="Cover of 21.05.91: Shadows of History">
+        <div class="date-tag">21<br>05<br>91</div>
+      </div>
+      <div>
+        <span class="book-num">Book Two</span>
+        <h2>Shadows of History</h2>
+        <p class="tagline">History fractured in thirteen seconds.</p>
+        <p>Everyone remembers what happened. Few remember how ordinary it felt before it did. A gripping historical thriller revisiting the assassination of Rajiv Gandhi — not as a single act of violence, but as the inevitable outcome of overlooked warnings and silences that stretched across years.</p>
+        <p>Set against post-1984 India, it traces the tensions linking New Delhi, Tamil Nadu, and Sri Lanka through journalists, intelligence officers, and bystanders. Not a tale of ignorance, but of awareness without action.</p>
+        <a class="read-btn" href="{{ site.baseurl }}/21-05-91/">Read Free Online &rarr;</a>
+        <a class="kindle-btn" href="https://www.amazon.com/dp/B0GLJXHZML">Read on Kindle</a>
+        <span class="ku">Free with Kindle Unlimited</span>
+      </div>
+    </article>
+
+  </section>
+
+  <footer>
+    <span class="author-name">Arul Anand</span>
+    Political fiction at the seam between history and imagination.<br>
+    &copy; Arul Anand. Free to read online &mdash; not for reproduction.
+  </footer>
+</div>
+</body>
+</html>
