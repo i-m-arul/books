@@ -12,8 +12,9 @@ title: The Fracture Novels
 .books-grid{display:flex;gap:3rem;flex-wrap:wrap;justify-content:center;
   max-width:700px;margin:0 auto;padding:0 1.5rem 3rem}
 .book-card{flex:1;min-width:220px;max-width:270px;text-align:center}
-.book-card img{width:100%;max-width:210px;box-shadow:0 6px 24px rgba(0,0,0,0.2);
-  border-radius:3px;display:block;margin:0 auto 1.2rem}
+.book-card img{width:210px;height:300px;object-fit:cover;
+  box-shadow:0 6px 24px rgba(0,0,0,0.2);border-radius:3px;
+  display:block;margin:0 auto 1.2rem}
 .book-card .book-num{font-family:sans-serif;font-size:0.7rem;letter-spacing:0.12em;
   text-transform:uppercase;color:var(--muted);margin-bottom:0.3rem}
 .book-card h2{font-size:1.05rem;margin-bottom:0.3rem;color:var(--text);line-height:1.3}
