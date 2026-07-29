@@ -1,0 +1,55 @@
+"21-05-91":
+  title: "21.05.91: Shadows of History"
+  chapters:
+    - slug: prologue
+      label: "Prologue"
+    - slug: chapter-01
+      label: "1 — The Inheritance of Silence"
+    - slug: chapter-02
+      label: "2 — The Listening State"
+    - slug: chapter-03
+      label: "3 — Across the Water"
+    - slug: chapter-04
+      label: "4 — Security Without Weight"
+    - slug: chapter-05
+      label: "5 — Those Who Stayed Away"
+    - slug: chapter-06
+      label: "6 — Security Without Weight"
+    - slug: chapter-07
+      label: "7 — The Calm Before"
+    - slug: chapter-08
+      label: "8 — The Rally Begins"
+    - slug: chapter-09
+      label: "9 — The Approach"
+    - slug: chapter-10
+      label: "10 — Thirteen Seconds"
+    - slug: chapter-11
+      label: "11 — The Silence After"
+    - slug: chapter-12
+      label: "12 — What Remained"
+    - slug: epilogue
+      label: "Epilogue"
+    - slug: authors-note
+      label: "Author's Note"
+    - slug: afterword
+      label: "Afterword"
+
+"31-10-84":
+  title: "31.10.84: A Nation on the Edge"
+  chapters:
+    - slug: chapter-01
+      label: "Chapter One"
+    - slug: chapter-02
+      label: "Chapter Two: The Weight of the Date"
+    - slug: chapter-03
+      label: "Chapter Three: The Unraveling"
+    - slug: chapter-04
+      label: "Chapter Four: The Echo Timeline"
+    - slug: chapter-05
+      label: "Chapter Five: The Second Witness"
+    - slug: chapter-06
+      label: "Chapter Six: Stabilization Theory"
+    - slug: chapter-07
+      label: "Chapter Seven: Succession"
+    - slug: epilogue
+      label: "Epilogue: 31.10.84"
