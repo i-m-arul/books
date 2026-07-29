@@ -23,8 +23,13 @@ title: "20.17.26: En Nenjil Kudiyirukkum"
 .cs-series{font-size:0.82rem;color:var(--muted);font-style:italic;margin-top:2.5rem;
   padding-top:1.5rem;border-top:1px solid var(--border)}
 .cs-series a{color:var(--muted);text-decoration:underline}
+.cs-cover{text-align:center;margin-bottom:2rem}
+.cs-cover img{max-width:220px;box-shadow:0 6px 24px rgba(0,0,0,0.2);border-radius:3px}
 </style>
 <div class="coming-soon">
+  <div class="cs-cover">
+    <img src="{{ site.baseurl }}/assets/covers/20-17-26.png" alt="20.17.26: En Nenjil Kudiyirukkum cover">
+  </div>
   <span class="cs-label">Coming Soon</span>
   <h1 class="cs-title">20.17.26</h1>
   <p class="cs-subtitle">En Nenjil Kudiyirukkum</p>
