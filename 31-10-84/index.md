@@ -32,16 +32,16 @@ title: "31.10.84: A Nation on the Edge"
 Genre: Literary historical fiction with speculative elements 31.10.84 is a meditation on history, memory, and moral responsibility, set against one of India’s most consequential days. On the morning of October 31, 1984, Arun, an ordinary man with an unexplained awareness of historical fracture points, attempts to subtly disrupt the assassination of Prime Minister Indira Gandhi. Bound by unseen constraints, he cannot prevent the event—only delay it. His intervention alters routine and creates a brief hesitation in history itself, but the assassination ultimately occurs. It does so differently, leaving behind anomalies that do not resolve.</p>
   <div class="toc">
     <h2>Table of Contents</h2>
-
-- [Chapter One]({{ site.baseurl }}/31-10-84/chapter-01/)
-- [Chapter Two: The Weight of the Date]({{ site.baseurl }}/31-10-84/chapter-02/)
-- [Chapter Three: The Unraveling]({{ site.baseurl }}/31-10-84/chapter-03/)
-- [Chapter Four: The Echo Timeline]({{ site.baseurl }}/31-10-84/chapter-04/)
-- [Chapter Five: The Second Witness]({{ site.baseurl }}/31-10-84/chapter-05/)
-- [Chapter Six: Stabilization Theory]({{ site.baseurl }}/31-10-84/chapter-06/)
-- [Chapter Seven: Succession]({{ site.baseurl }}/31-10-84/chapter-07/)
-- [Epilogue: 31.10.84]({{ site.baseurl }}/31-10-84/epilogue/)
-
+    <ul>
+      <li><a href="{{ site.baseurl }}/31-10-84/chapter-01/">Chapter One</a></li>
+      <li><a href="{{ site.baseurl }}/31-10-84/chapter-02/">Chapter Two: The Weight of the Date</a></li>
+      <li><a href="{{ site.baseurl }}/31-10-84/chapter-03/">Chapter Three: The Unraveling</a></li>
+      <li><a href="{{ site.baseurl }}/31-10-84/chapter-04/">Chapter Four: The Echo Timeline</a></li>
+      <li><a href="{{ site.baseurl }}/31-10-84/chapter-05/">Chapter Five: The Second Witness</a></li>
+      <li><a href="{{ site.baseurl }}/31-10-84/chapter-06/">Chapter Six: Stabilization Theory</a></li>
+      <li><a href="{{ site.baseurl }}/31-10-84/chapter-07/">Chapter Seven: Succession</a></li>
+      <li><a href="{{ site.baseurl }}/31-10-84/epilogue/">Epilogue: 31.10.84</a></li>
+    </ul>
   </div>
   <a href="{{ site.baseurl }}/31-10-84/chapter-01/" class="start-btn">Begin Reading &rarr;</a>
 </div>

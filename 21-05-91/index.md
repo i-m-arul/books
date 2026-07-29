@@ -31,24 +31,24 @@ title: "21.05.91: Shadows of History"
   <p class="synopsis">May 21, 1991. A bomb. A garland. A moment that changed India forever. The second novel in The Fracture Novels traces the years of decision, silence, and fracture that made that moment possible — from Delhi's corridors of power to the shores of Tamil Nadu, from the grief of 1984 to the unresolved question of Sri Lanka. A story of how history does not repeat loudly, but precisely.</p>
   <div class="toc">
     <h2>Table of Contents</h2>
-
-- [PROLOGUE — SHADOWS OF HISTORY]({{ site.baseurl }}/21-05-91/prologue/)
-- [Chapter 1 — The Inheritance of Silence]({{ site.baseurl }}/21-05-91/chapter-01/)
-- [Chapter 2 — The Listening State]({{ site.baseurl }}/21-05-91/chapter-02/)
-- [Chapter 3 — Across the Water]({{ site.baseurl }}/21-05-91/chapter-03/)
-- [Chapter 4 — Security Without Weight]({{ site.baseurl }}/21-05-91/chapter-04/)
-- [Chapter 5 — Those Who Stayed Away]({{ site.baseurl }}/21-05-91/chapter-05/)
-- [Chapter 6 — Security without Weight]({{ site.baseurl }}/21-05-91/chapter-06/)
-- [Chapter 7 — The Calm Before]({{ site.baseurl }}/21-05-91/chapter-07/)
-- [Chapter 8 —  The Rally Begins]({{ site.baseurl }}/21-05-91/chapter-08/)
-- [Chapter 9 — The Approach]({{ site.baseurl }}/21-05-91/chapter-09/)
-- [Chapter 10 — Thirteen Seconds]({{ site.baseurl }}/21-05-91/chapter-10/)
-- [Chapter 11 — The Silence After]({{ site.baseurl }}/21-05-91/chapter-11/)
-- [Chapter 12 — What Remained]({{ site.baseurl }}/21-05-91/chapter-12/)
-- [EPILOGUE — FRACTURES]({{ site.baseurl }}/21-05-91/epilogue/)
-- [Author’s Note]({{ site.baseurl }}/21-05-91/authors-note/)
-- [Afterword / Historical Notes]({{ site.baseurl }}/21-05-91/afterword/)
-
+    <ul>
+      <li><a href="{{ site.baseurl }}/21-05-91/prologue/">Prologue — Shadows of History</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-01/">Chapter 1 — The Inheritance of Silence</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-02/">Chapter 2 — The Listening State</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-03/">Chapter 3 — Across the Water</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-04/">Chapter 4 — Security Without Weight</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-05/">Chapter 5 — Those Who Stayed Away</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-06/">Chapter 6 — Security Without Weight</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-07/">Chapter 7 — The Calm Before</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-08/">Chapter 8 — The Rally Begins</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-09/">Chapter 9 — The Approach</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-10/">Chapter 10 — Thirteen Seconds</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-11/">Chapter 11 — The Silence After</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/chapter-12/">Chapter 12 — What Remained</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/epilogue/">Epilogue — Fractures</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/authors-note/">Author’s Note</a></li>
+      <li><a href="{{ site.baseurl }}/21-05-91/afterword/">Afterword &amp; Historical Notes</a></li>
+    </ul>
   </div>
   <a href="{{ site.baseurl }}/21-05-91/prologue/" class="start-btn">Begin Reading &rarr;</a>
 </div>
