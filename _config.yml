@@ -1,0 +1,15 @@
+title: The Fracture Novels
+description: "The Fracture Novels by Arul — historical fiction, free to read online"
+url: "https://i-m-arul.github.io"
+baseurl: "/books"
+author: Arul
+series: The Fracture Novels
+exclude:
+  - generate_site.py
+  - "*.docx"
+  - Gemfile
+  - Gemfile.lock
+  - README_DEV.md
+markdown: kramdown
+kramdown:
+  input: GFM
