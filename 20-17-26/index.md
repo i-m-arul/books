@@ -33,6 +33,7 @@ title: "20.17.26: En Nenjil Kudiyirukkum"
   <span class="cs-label">Coming Soon</span>
   <h1 class="cs-title">20.17.26</h1>
   <p class="cs-subtitle">En Nenjil Kudiyirukkum</p>
+  <p style="font-style:italic;color:var(--muted);font-size:0.88rem;margin-top:-1rem;margin-bottom:2rem">"Who Lives in My Heart"</p>
 
   <blockquote class="cs-epigraph">
     History does not begin when a leader arrives.<br>
