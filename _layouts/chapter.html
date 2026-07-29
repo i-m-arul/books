@@ -11,7 +11,7 @@ layout: default
   scrollbar-width:thin;scrollbar-color:var(--border) transparent;}
 .toc-sidebar::-webkit-scrollbar{width:4px}
 .toc-sidebar::-webkit-scrollbar-thumb{background:var(--border);border-radius:2px}
-.sidebar-book-title{font-family:sans-serif;font-size:0.65rem;letter-spacing:0.12em;
+.sidebar-book-title{font-family:'Fraunces',serif;font-size:0.65rem;letter-spacing:0.12em;
   text-transform:uppercase;color:var(--muted);display:block;margin-bottom:0.5rem;
   line-height:1.4}
 .sidebar-back{font-size:0.78rem;color:var(--muted);display:block;
@@ -36,6 +36,9 @@ layout: default
 .chapter-content p{margin:0 0 1.3em;text-align:justify;hyphens:auto}
 .chapter-content > p:first-of-type::first-letter{font-size:3.2em;float:left;
   line-height:0.78;margin:0.08em 0.08em 0 0;color:var(--accent);font-weight:bold}
+.chapter-content hr{border:none;text-align:center;margin:2rem 0;color:var(--muted)}
+.chapter-content hr::after{content:"* * *";font-style:italic;font-size:0.95rem;
+  letter-spacing:0.2em;color:var(--muted)}
 
 /* ── Prev / Next nav ── */
 .chapter-nav{display:flex;justify-content:space-between;align-items:flex-start;

@@ -5,11 +5,9 @@ title: "31.10.84: A Nation on the Edge"
 <style>
 .book-index{max-width:700px;margin:0 auto;padding:2rem 1.5rem}
 .book-cover{text-align:center;margin-bottom:2rem}
-.book-cover img{max-width:240px;box-shadow:0 6px 24px rgba(0,0,0,0.2);
-  border-radius:3px}
+.book-cover img{max-width:240px;box-shadow:0 6px 24px rgba(0,0,0,0.2);border-radius:3px}
 .book-index h1{font-size:2rem;color:var(--accent);margin-bottom:0.3rem}
-.book-index .author{color:var(--muted);font-size:0.9rem;margin-bottom:1.5rem;
-  font-style:italic}
+.book-index .author{color:var(--muted);font-size:0.9rem;margin-bottom:1.5rem;font-style:italic}
 .book-index .synopsis{font-size:1rem;line-height:1.8;margin-bottom:2rem;
   border-left:3px solid var(--accent);padding-left:1rem;color:var(--muted)}
 .book-index .toc h2{font-size:1rem;text-transform:uppercase;letter-spacing:0.08em;
@@ -19,7 +17,7 @@ title: "31.10.84: A Nation on the Edge"
 .book-index .toc li a{font-size:0.95rem}
 .start-btn{display:inline-block;margin-top:1.5rem;padding:0.6rem 1.5rem;
   background:var(--accent);color:#fff;border-radius:3px;
-  font-family:sans-serif;font-size:0.9rem;text-decoration:none}
+  font-family:'Fraunces',serif;font-size:0.9rem;text-decoration:none}
 .start-btn:hover{opacity:0.88;text-decoration:none}
 </style>
 <div class="book-index">
@@ -27,9 +25,8 @@ title: "31.10.84: A Nation on the Edge"
     <img src="{{ site.baseurl }}/31-10-84/cover.png" alt="31.10.84: A Nation on the Edge cover">
   </div>
   <h1>31.10.84: A Nation on the Edge</h1>
-  <p class="author">by Arul</p>
-  <p class="synopsis">Title: 31.10.84
-Genre: Literary historical fiction with speculative elements 31.10.84 is a meditation on history, memory, and moral responsibility, set against one of India’s most consequential days. On the morning of October 31, 1984, Arun, an ordinary man with an unexplained awareness of historical fracture points, attempts to subtly disrupt the assassination of Prime Minister Indira Gandhi. Bound by unseen constraints, he cannot prevent the event—only delay it. His intervention alters routine and creates a brief hesitation in history itself, but the assassination ultimately occurs. It does so differently, leaving behind anomalies that do not resolve.</p>
+  <p class="author">by Arul Anand</p>
+  <p class="synopsis">October 31, 1984. The day a nation held its breath. The first novel in The Fracture Novels — a story of witnesses, echoes, and the long shadow of a single morning told through those who watched, those who remembered, and those who could not look away.</p>
   <div class="toc">
     <h2>Table of Contents</h2>
     <ul>
